@@ -1,13 +1,7 @@
-Here you go — clean, structured, and ready to drop into your repo as a proper `README.md` 🚀
-
----
-
-````markdown
 # 🚀 Server LIB - Ephemeral SSH Access System
 
 This project provides a lightweight web-based system to generate temporary Linux users for SSH access.  
 Users are created via a browser request and expire automatically after a set duration.
-````
 
 ---
 
